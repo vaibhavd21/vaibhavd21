@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Vaibhav
 
 ####    Bring O(n!) to O(1) 😁
 
 
 - 📚 Currently Computer Engineering Student...
-- 🌱 I’m currently working(mastering) Web Development...
+- 🌱 Working(mastering) Web Development...
 - 😍 In ❤️ with Python and hence enthusiastic about Data Science.
 - 💬 Ask me aything about SPORTS.
 - ⚡ Fun fact: In ❤️ with ⛰️ but dont want to trek for that😂.
@@ -15,7 +15,7 @@
 
 <br />
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21)](https://github.com/vaibhavd21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21)](https://github.com/vaibhavd21/github-readme-stats)
 
 
 ### Connect with me:
