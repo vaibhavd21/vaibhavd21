@@ -16,14 +16,14 @@
 <hr>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21)](https://github.com/vaibhavd21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21&theme=dark)](https://github.com/vaibhavd21)
 
 
 
 <hr>
 ### Connect with me:
 
-[<img align="left" alt="Vaibhav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:azure;"/>][linkedin]
+[<img align="left" alt="Vaibhav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white"/>][linkedin]
 [<img align="left" alt="Vaibhav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
