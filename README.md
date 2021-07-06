@@ -7,7 +7,7 @@
 - 🌱 Working(mastering) Web Development...
 - 🙋‍♂️ My <a href = "https://drive.google.com/file/d/19AMg3mNA9w6rsOWpiMrpUpzynMaJnL82/view?usp=sharing">Resume.</a> Welcome for suggestions if any.
 - 😍 In ❤️ with Python and hence enthusiastic about Data Science.
-- 💬 Ask me aything about SPORTS.
+- 💬 Ask me aything about CRICKET.
 - ⚡ Fun fact: In ❤️ with ⛰️ but dont want to trek for that😂.
 <hr>
 <br />
