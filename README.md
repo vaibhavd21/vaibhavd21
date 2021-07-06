@@ -15,15 +15,15 @@
 
 <br />
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21)](https://github.com/vaibhavd21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21)](https://github.com/vaibhavd21)
 
 
 ### Connect with me:
 
 
 
-[<img align="left" alt="Sandesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sandesh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Vaibhav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vaibhav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
