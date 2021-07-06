@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### MOTO :  Bring O(n!) to O(1) 😁
+####    Bring O(n!) to O(1) 😁
 
 
 - 📚 Currently Computer Engineering Student...
