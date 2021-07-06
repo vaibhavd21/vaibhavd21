@@ -13,16 +13,17 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhavd21&show_icons=true&theme=dark)](https://github.com/vaibhavd21)
 
+<hr>
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21)](https://github.com/vaibhavd21)
 
 
+
+<hr>
 ### Connect with me:
 
-
-
-[<img align="left" alt="Vaibhav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vaibhav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:azure;"/>][linkedin]
 [<img align="left" alt="Vaibhav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
