@@ -15,7 +15,7 @@
 
 <br />
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21&hide=false)](https://github.com/vaibhavd21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21&hide=none)](https://github.com/vaibhavd21)
 
 
 ### Connect with me:
