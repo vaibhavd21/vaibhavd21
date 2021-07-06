@@ -14,8 +14,7 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhavd21&show_icons=true&theme=dark)](https://github.com/vaibhavd21)
 
 <br />
-<hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshdamkondwar&hide=html,css)](https://github.com/sandeshdamkondwar)
 
 
