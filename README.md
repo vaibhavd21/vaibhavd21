@@ -11,11 +11,11 @@
 <hr>
 <br />
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhavd21&show_icons=true&theme=radical)](https://github.com/vaibhavd21)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhavd21&show_icons=true&theme=dark)](https://github.com/vaibhavd21)
 
 <br />
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21)](https://github.com/vaibhavd21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21&hide=false)](https://github.com/vaibhavd21)
 
 
 ### Connect with me:
