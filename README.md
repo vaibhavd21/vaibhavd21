@@ -28,8 +28,7 @@
 ### Connect with me:
 
 
-
-[<a href = "https://instagram.com/vaibhavdubewar21"><i class="bi bi-linkedin"></i></a>][linkedin]
+[<img align="left" alt="Vaibhav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Vaibhav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
