@@ -2,11 +2,11 @@
 
 ####    Bring O(n!) to O(1) 😁
 
-
+- ✨ My <a href = "https://vaibhavd.netlify.app/">Portfolio.</a> 
 - 📚 Currently Computer Engineering Student...
 - 🌱 Working(mastering) Web Development...
-- In ❤️ with Python and hence enthusiastic about Data Science.
-- 🙋‍♂️ My <a href = "https://drive.google.com/file/d/19AMg3mNA9w6rsOWpiMrpUpzynMaJnL82/view?usp=sharing">Resume.</a>
+- ❤️ Python Scripting and data science enthusiast
+- 🙋‍♂️ My <a href = "https://drive.google.com/file/d/19AMg3mNA9w6rsOWpiMrpUpzynMaJnL82/view?usp=sharing">Resume.</a> 
 - 💬 Ask me aything about CRICKET.
 - ⚡ Trekking, Riding .
 <hr>
